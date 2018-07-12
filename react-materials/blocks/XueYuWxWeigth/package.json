@@ -1,0 +1,25 @@
+{
+  "name": "xueyu-wx-weigth",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "xueyuzi",
+    "email": "xueyu.d@gmail.com"
+  },
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "swiper": "^4.3.3"
+  },
+  "blockConfig": {
+    "name": "xueyu-wx-weigth",
+    "title": "微博小模块",
+    "categories": [
+      "其他"
+    ],
+    "screenshot": "http://key.visualarts.gr.jp/common/banner/pict_lb10th_banner.jpg"
+  }
+}

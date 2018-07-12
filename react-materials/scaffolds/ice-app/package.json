@@ -1,5 +1,5 @@
 {
-  "name": "ice-app",
+  "name": "materials-template-app",
   "version": "1.0.0",
   "description": "",
   "author": {
@@ -32,7 +32,7 @@
     "entry": "src/index.js"
   },
   "scaffoldConfig": {
-    "name": "ice-app",
+    "name": "materials-template-app",
     "title": "示例模板",
     "screenshot": ""
   }

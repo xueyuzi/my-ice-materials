@@ -1,6 +1,6 @@
 {
-  "name": "materials-app",
-  "version": "1.0.0",
+  "name": "lings-ice-materials",
+  "version": "1.0.8",
   "description": "",
   "author": "lings <xueyu.d@gmail.com>",
   "scripts": {
@@ -39,10 +39,6 @@
     {
       "directory": "react-materials",
       "type": "react"
-    },
-    {
-      "directory": "vue-materials",
-      "type": "vue"
     }
   ]
 }

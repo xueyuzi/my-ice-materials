@@ -1,5 +1,5 @@
 {
-  "name": "example-layout",
+  "name": "materials-template-layout",
   "version": "1.0.0",
   "description": "",
   "author": {
@@ -12,7 +12,7 @@
     "prop-types": "^15.5.8"
   },
   "layoutConfig": {
-    "name": "example-layout",
+    "name": "materials-template-layout",
     "title": "示例区块",
     "categories": ["其他"],
     "screenshot": ""
