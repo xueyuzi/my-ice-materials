@@ -1,0 +1,153 @@
+{
+  "name": "react-materials",
+  "type": "react",
+  "blocks": [
+    {
+      "name": "xueyu-banner-block",
+      "title": "滑动横幅区块",
+      "source": {
+        "type": "npm",
+        "npm": "xueyu-banner-block",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "swiper": "^4.3.3"
+      },
+      "screenshot": "http://key.visualarts.gr.jp/common/banner/pict_lb10th_banner.jpg",
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-12T10:24:10.171Z",
+      "updateTime": "2018-07-12T10:24:12.710Z"
+    },
+    {
+      "name": "xueyu-follow-list",
+      "title": "联系我们",
+      "source": {
+        "type": "npm",
+        "npm": "xueyu-follow-list",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "swiper": "^4.3.3"
+      },
+      "screenshot": "http://key.visualarts.gr.jp/common/banner/pict_lb10th_banner.jpg",
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-12T10:25:44.671Z",
+      "updateTime": "2018-07-12T10:25:47.202Z"
+    },
+    {
+      "name": "xueyu-protect-list",
+      "title": "产品列表",
+      "source": {
+        "type": "npm",
+        "npm": "xueyu-protect-list",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "swiper": "^4.3.3"
+      },
+      "screenshot": "http://key.visualarts.gr.jp/common/banner/pict_lb10th_banner.jpg",
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-12T10:26:01.351Z",
+      "updateTime": "2018-07-12T10:26:04.308Z"
+    },
+    {
+      "name": "xueyu-wx-weigth",
+      "title": "微博小模块",
+      "source": {
+        "type": "npm",
+        "npm": "xueyu-wx-weigth",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "swiper": "^4.3.3"
+      },
+      "screenshot": "http://key.visualarts.gr.jp/common/banner/pict_lb10th_banner.jpg",
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-12T10:26:18.397Z",
+      "updateTime": "2018-07-12T10:26:22.666Z"
+    }
+  ],
+  "layouts": [
+    {
+      "name": "materials-template-layout",
+      "title": "示例区块",
+      "source": {
+        "type": "npm",
+        "npm": "materials-template-layout",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "prop-types": "^15.5.8"
+      },
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-12T10:26:45.816Z",
+      "updateTime": "2018-07-12T10:26:49.413Z"
+    }
+  ],
+  "scaffolds": [
+    {
+      "name": "materials-template-app",
+      "title": "示例模板",
+      "source": {
+        "type": "npm",
+        "npm": "materials-template-app",
+        "version": "1.0.0"
+      },
+      "dependencies": {
+        "@icedesign/base": "^0.2.0",
+        "@icedesign/skin": "^0.1.0",
+        "prop-types": "^15.5.8",
+        "react-router": "^3.2.0"
+      },
+      "devDependencies": {
+        "babel-eslint": "^8.0.3",
+        "eslint": "^4.13.1",
+        "eslint-config-airbnb": "^16.1.0",
+        "eslint-plugin-babel": "^4.1.1",
+        "eslint-plugin-import": "^2.8.0",
+        "eslint-plugin-jsx-a11y": "^6.0.3",
+        "eslint-plugin-react": "^7.5.1",
+        "ice-scripts": "^1.1.1"
+      },
+      "categories": [],
+      "features": {},
+      "publishTime": "2018-07-12T10:27:07.320Z",
+      "updateTime": "2018-07-12T10:27:12.711Z"
+    }
+  ]
+}
