@@ -1,0 +1,25 @@
+{
+  "name": "xueyu-character-list",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "xueyuzi",
+    "email": "xueyu.d@gmail.com"
+  },
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "swiper": "^4.3.3"
+  },
+  "blockConfig": {
+    "name": "xueyu-character-list",
+    "title": "人物介绍",
+    "categories": [
+      "其他"
+    ],
+    "screenshot": "http://o99hhtmyi.bkt.clouddn.com/XueYuCharacter.png"
+  }
+}
