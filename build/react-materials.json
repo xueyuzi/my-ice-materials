@@ -26,6 +26,29 @@
       "updateTime": "2018-07-12T10:24:12.710Z"
     },
     {
+      "name": "xueyu-character-list",
+      "title": "人物介绍",
+      "source": {
+        "type": "npm",
+        "npm": "xueyu-character-list",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "swiper": "^4.3.3"
+      },
+      "screenshot": "http://o99hhtmyi.bkt.clouddn.com/XueYuCharacter.png",
+      "categories": [
+        "其他"
+      ],
+      "features": {
+        "useComponents": []
+      },
+      "publishTime": "2018-07-16T07:05:31.980Z",
+      "updateTime": "2018-07-16T07:05:36.758Z"
+    },
+    {
       "name": "xueyu-follow-list",
       "title": "联系我们",
       "source": {

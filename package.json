@@ -4,6 +4,7 @@
   "description": "",
   "author": "lings <xueyu.d@gmail.com>",
   "scripts": {
+    "start": "browser-sync start --server ./build",
     "bootstrap": "lerna bootstrap",
     "publish": "lerna run prepublish && lerna publish",
     "setup": "lerna setup",
@@ -40,5 +41,8 @@
       "directory": "react-materials",
       "type": "react"
     }
-  ]
+  ],
+  "dependencies": {
+    "@antv/g2": "^3.2.4"
+  }
 }
