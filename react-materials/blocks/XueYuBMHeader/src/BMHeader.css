@@ -6,19 +6,18 @@
 }
 .menu-box{
     width:100%;
-    position: fixed;
-    bottom:0px;
     background:rgba(255,255,255,0.6);
     padding: 10px 0 ;
 }
 .menu-item{
     flex:1;
     display:flex;
-    justify-content: space-between;
+    justify-content: center;
     font-family: Meiryo, sans-serif, monospace;
+    text-align: center;
     color: #5B698D;
     font-size: 18px;
 }
 .menu-item > a:hover{
-    text-decoration: underline;
+    /* text-decoration: underline; */
 }

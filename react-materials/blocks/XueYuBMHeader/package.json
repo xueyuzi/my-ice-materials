@@ -1,6 +1,6 @@
 {
   "name": "xueyu-bm-header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "author": {
     "name": "xueyuzi",
@@ -15,7 +15,7 @@
   },
   "blockConfig": {
     "name": "xueyu-bm-header",
-    "title": "底部header",
+    "title": "双语header",
     "categories": [
       "其他"
     ],

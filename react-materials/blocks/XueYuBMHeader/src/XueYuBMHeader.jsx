@@ -5,11 +5,13 @@ export default class XueYuBMHeader extends PureComponent {
     render() {
         const menuItems = menuConfig.map((d,i) => (
             <li className="menu-item">
-                {i%2===0 ? <span>|</span>:<span></span>}
+                {/* {i%2===0 ? <span>|</span>:<span></span>} */}
                 <a href={d.path}>
-                    {d.name} 
+                    {d.cnName}
+                    <br/>
+                    {d.enName}
                 </a>
-                {i%2===0 ? <span>|</span>:<span></span>}
+                {/* {i%2===0 ? <span>|</span>:<span></span>} */}
             </li>
         ))
         return (
