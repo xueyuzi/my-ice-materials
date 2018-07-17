@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
+import Layout from '@icedesign/layout';
+import Header from "./Header";
 
 export default class ExampleLayout extends Component {
   static displayName = 'ExampleLayout';
@@ -21,9 +23,15 @@ export default class ExampleLayout extends Component {
 
   render() {
     return (
-      <div>
-        example-layout
-      </div>
+      <Layout>
+        <Layout.Header>
+          <Header />
+        </Layout.Header>
+        {/* 主体内容 */}
+        <Layout.Main scrollable style={{ paddingRight: 20, paddingTop: 20 }}>
+          {this.props.children}
+        </Layout.Main>
+      </Layout>
     );
   }
 }

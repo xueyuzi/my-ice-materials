@@ -1,6 +1,6 @@
 {
   "name": "materials-template-layout",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "author": {
     "name": "ICE Team",
@@ -9,7 +9,10 @@
   "files": ["src/", "lib/"],
   "dependencies": {
     "react": "^16.2.0",
-    "prop-types": "^15.5.8"
+    "prop-types": "^15.5.8",
+    "react-router-dom": "^4.3.1",
+    "react-router": "^4.3.1",
+    "@icedesign/layout": "^0.1.2"
   },
   "layoutConfig": {
     "name": "materials-template-layout",
