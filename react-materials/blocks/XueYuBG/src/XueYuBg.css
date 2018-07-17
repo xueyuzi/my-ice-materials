@@ -1,0 +1,10 @@
+.main{
+    display:flex;
+    justify-content: center;
+}
+.screen{
+    background-color: rgba(0,0,255,0.3);
+    width:1000px;
+    min-height:500px;
+    text-align: center;
+}

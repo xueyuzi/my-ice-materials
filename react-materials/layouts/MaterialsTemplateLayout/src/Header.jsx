@@ -1,5 +1,5 @@
 import React, { PureComponent } from 'react'
-import menuConfig from "./menuConfig"
+import menuConfig from "../../../blocks/XueYuBMHeader/src/menuConfig"
 
 export default class Header extends PureComponent {
     render() {
